@@ -1,3 +1,8 @@
 Nesse desafio eu resolvi construir os wireframes de um sistema de venda de plantas ^^
-Resolvi focar nas telas principais e acredito ter concluído o desafio seguindo as regras e conceitos aprendidos durante o curso
-https://www.figma.com/file/hEg10cyEunPyJkFo1y6xEH/Untitled?type=design&node-id=2%3A1003&t=vAz2KN3AmH4klFiW-1
+Resolvi focar nas telas principais e acredito ter concluído o desafio seguindo as regras e conceitos aprendidos durante
+o curso
+
+
+atualização 2:
+agora o projeto consta com um design system e um protótipo
+https://www.figma.com/file/hEg10cyEunPyJkFo1y6xEH/UX--DIO?type=design&node-id=24%3A590&mode=design&t=8DDsJK3n4maUGYey-1
